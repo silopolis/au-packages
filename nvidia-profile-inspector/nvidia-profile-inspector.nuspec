@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nvidia-profile-inspector</id>
+    <title>NVIDIA Profile Inspector</title>
+    <owners>starise</owners>
+    <version>2.1.3.10</version>
+    <authors>Orbmu2k</authors>
+    <summary>NVIDIA Profile Inspector, previously known as NVIDIA Inspector.</summary>
+	<description>
+	Nvidia Profile Inspector is a tool created for pulling up and editing Application Profile settings within the Nvidia drivers. Much like the "3D settings" page in Nvidia Control Panel. But not only more in-depth, but much more responsive. NVCP requires you to rely on Nvidia for just about everything. Problem is they don't expose every useful feature, might make some wrong assumptions about any given game and the interface is cumbersome.
+
+	### Package parameters
+
+	- `/NoInspector` - Skip the installation of NVIDIA Inspector
+
+	### Notes
+
+	This package install the latest build of "NVIDIA Profile Inspector". It also contains "NVIDIA Inspector" that can read driver and hardware information for GeForce graphics cards and adds overclocking options. If you are not interested in these features, please see "Package parameters" section above to skip the installation of this tool.
+	</description>
+    <projectUrl>https://github.com/Orbmu2k/nvidiaProfileInspector</projectUrl>
+    <packageSourceUrl>https://github.com/starise/au-packages</packageSourceUrl>
+    <tags>gpu nvidia inspector techpowerup gaming graphics card utility overclock portable</tags>
+    <copyright>Orbmu2k</copyright>
+    <licenseUrl>https://raw.githubusercontent.com/Orbmu2k/nvidiaProfileInspector/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/Orbmu2k/nvidiaProfileInspector/master/nspector/n1.ico</iconUrl>
+    <releaseNotes></releaseNotes>
+    <docsUrl>http://orbmu2k.de/tools/nvidia-inspector-tool</docsUrl>
+    <dependencies>
+      <dependency id="chocolatey-core.extension" version="1.1.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

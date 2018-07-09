@@ -1,0 +1,9 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+The package install the newest version of "nvidiaProfileInspector"
+available here: "https://ci.appveyor.com/project/Orbmu2k/nvidiaprofileinspector/build/artifacts".
+
+The package can install also the original "nvidiaInspector" tool
+that can be downloaded here: "http://orbmu2k.de/tools/nvidia-inspector-tool".
