@@ -26,7 +26,7 @@
     <licenseUrl>https://raw.githubusercontent.com/Orbmu2k/nvidiaProfileInspector/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/Orbmu2k/nvidiaProfileInspector/master/nspector/n1.ico</iconUrl>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/Orbmu2k/nvidiaProfileInspector/releases</releaseNotes>
     <docsUrl>http://orbmu2k.de/tools/nvidia-inspector-tool</docsUrl>
     <dependencies>
       <dependency id="chocolatey-core.extension" version="1.1.0" />

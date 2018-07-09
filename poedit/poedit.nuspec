@@ -47,7 +47,7 @@ The Pro version is a paid in-app upgrade that enhances Poedit with additional fe
     <licenseUrl>https://github.com/vslavik/poedit/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/vslavik/poedit/master/artwork/linux/appicon/512x512/apps/poedit.png</iconUrl>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/vslavik/poedit/releases</releaseNotes>
 	<docsUrl>https://poedit.net/support</docsUrl>
 	<dependencies></dependencies>
   </metadata>
