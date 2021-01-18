@@ -46,7 +46,7 @@ The Pro version is a paid in-app upgrade that enhances Poedit with additional fe
     <copyright>Vaclav Slavik</copyright>
     <licenseUrl>https://github.com/vslavik/poedit/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/vslavik/poedit/master/artwork/linux/appicon/512x512/apps/poedit.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/vslavik/poedit/master/artwork/linux/appicon/512x512/apps/net.poedit.Poedit.png</iconUrl>
     <releaseNotes>https://github.com/vslavik/poedit/releases</releaseNotes>
 	<docsUrl>https://poedit.net/support</docsUrl>
 	<dependencies></dependencies>
