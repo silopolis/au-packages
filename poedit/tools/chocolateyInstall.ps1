@@ -2,9 +2,9 @@
 
 $packageName    = $env:ChocolateyPackageName
 $installerType  = 'exe'
-$url            = 'https://download.poedit.net/Poedit-2.1.1-setup.exe'
+$url            = 'https://download.poedit.net/Poedit-2.4.2-setup.exe'
 $silentArgs     = '/verysilent /norestart'
-$checksum       = 'E8354F55944969C402C62BD456C400891D0E263D8FE7B9C1D726FEB1B06BDED0'
+$checksum       = '9D93654D17091637A66CF7DCC27CE8B0215433C9917023A17A658A0FE5D8AB2B'
 $checksumType   = 'sha256'
 $validExitCodes = @(0)
 
